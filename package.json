@@ -14,6 +14,6 @@
   ],	
   "engines": { "node": ">=0.10.0" },	
   "keywords": [ "socks", "socks5", "socksv5", "proxy" ],	
-  "licenses": [ { "type": "MIT", "url": "http://github.com/mscdex/socksv5/raw/master/LICENSE" } ],	
-  "repository" : { "type": "git", "url": "http://github.com/mscdex/socksv5.git" }	
+  "licenses": [ { "type": "MIT", "url": "http://github.com/posportal/socksv5/raw/master/LICENSE" } ],	
+  "repository" : { "type": "git", "url": "http://github.com/posportal/socksv5.git" }	
 }
